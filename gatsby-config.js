@@ -31,7 +31,7 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    "gatsby-plugin-use-dark-mode",
+   
     {
       resolve: "gatsby-source-filesystem",
       options: {
