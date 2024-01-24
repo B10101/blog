@@ -1,9 +1,9 @@
 ---
-title: Friends don't lie
-date: 2021-01-04
-tags: [stranger things, tv series]
-social_image: '/media/rocket.jpg'
-description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
+title: KUBERNETES - INTRO AND INSTALLATION
+date: 2024-01-24
+tags: [Kubernetes]
+social_image: '/media/cont.jpg'
+description: In the ever-evolving landscape of container orchestration, Kubernetes stands out as a game-changer. Its rise to prominence has been nothing short of meteoric, transforming the way we deploy, manage, and scale containerized applications. Whether you're a seasoned DevOps engineer, a software developer, or just venturing into the world of containerization, understanding Kubernetes is becoming increasingly crucial. This blog is your gateway to demystifying Kubernetes, unraveling its intricacies, and discovering how it revolutionizes the deployment and management of applications at scale. .
 ---
 
 Friends don't lie. Um, I'm happy you're home. We never would've upset you if we knew you had superpowers. Um, I'm happy you're home. Let’s burn that lab to the ground. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority.Nancy, seriously, you're gonna be so cool now, it's ridiculous. So, Jonathan, how was the pull-out? Um, I'm happy you're home. You're an idiot, Steve Harrington. You're beautiful, Nancy Wheeler. It's just, sometimes... people don't really say what they're really thinking.
@@ -14,7 +14,7 @@ Specifically how to build one? Yeah, I want a date with Bo Derek. We all want th
 
 ## Image
 
-![Rocket launch](/media/rocket.jpg)
+![Rocket launch](/media/cont.jpg)
 
 ## Header
 

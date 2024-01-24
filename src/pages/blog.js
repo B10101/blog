@@ -10,7 +10,7 @@ const Blog = ({ data }) => {
   return (
     <Layout title="Blog">
       <HeaderWrapper>
-        <h1>Blog</h1>
+        <h1>Pixels</h1>
 
         <Link
           css={`
