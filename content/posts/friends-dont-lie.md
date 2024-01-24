@@ -8,23 +8,14 @@ description: In the ever-evolving landscape of container orchestration, Kubernet
 
 Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF). Kubernetes allows you to deploy and manage containerized applications in a scalable and efficient way, providing features like automated load balancing, rolling updates, and self-healing.
 
-## Image
 
 ![Rocket launch](/media/cont.jpg)
 
-## Header
-
-Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.
-
-Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.
-
-## Unordered Lists
-
-- Item 1
+## Features of kubernetes
+- Container Orchestration:
+    -Deployment Management: Automates the deployment of containerized applications.
+    -Scaling: Allows horizontal scaling by adding or removing instances of applications based on demand.
+    -Rolling Updates: Enables the deployment of new versions of applications without downtime.
 - Item 2
 - Item 3
 
