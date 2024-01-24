@@ -13,11 +13,11 @@ Kubernetes is an open-source container orchestration platform that automates the
 
 ## Features of kubernetes
 - Container Orchestration:
-    -Deployment Management: Automates the deployment of containerized applications.
-    -Scaling: Allows horizontal scaling by adding or removing instances of applications based on demand.
-    -Rolling Updates: Enables the deployment of new versions of applications without downtime.
-- Item 2
-- Item 3
+    1. Deployment Management: It automates the deployment of containerized applications.
+    2. Scaling: It allows horizontal scaling by adding or removing instances of applications based on demand.
+    3. Rolling Updates: IT enables the deployment of new versions of applications without downtime.
+- Automated Load Balancing: It distributes incoming network traffic across multiple pods to ensure optimal resource utilization and high availability.
+- Batch Execution: It supports batch and cron job execution for running jobs or tasks on the cluster.
 
 ## Ordered Lists
 
