@@ -3,7 +3,7 @@ title: KUBERNETES - INTRO AND INSTALLATION
 date: 2024-01-24
 tags: [Kubernetes]
 social_image: '/media/cont.jpg'
-description: In the ever-evolving landscape of container orchestration, Kubernetes stands out as a game-changer. Its rise to prominence has been nothing short of meteoric, transforming the way we deploy, manage, and scale containerized applications. Whether you're a seasoned DevOps engineer, a software developer, or just venturing into the world of containerization, understanding Kubernetes is becoming increasingly crucial. This blog is your gateway to demystifying Kubernetes, unraveling its intricacies, and discovering how it revolutionizes the deployment and management of applications at scale. .
+description: In the ever-evolving landscape of container orchestration, Kubernetes stands out as a game-changer. Its rise to prominence has been nothing short of meteoric, transforming the way we deploy, manage, and scale containerized applications. Whether you're a seasoned DevOps engineer, a software developer, or just venturing into the world of containerization, understanding Kubernetes is becoming increasingly crucial. This blog is your gateway to demystifying Kubernetes, unraveling its intricacies, and discovering how it revolutionizes the deployment and management of applications at scale. 
 ---
 
 Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF). Kubernetes allows you to deploy and manage containerized applications in a scalable and efficient way.
