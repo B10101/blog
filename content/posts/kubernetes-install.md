@@ -35,6 +35,12 @@ sudo apt update
 sudo apt install docker.io
 
 ```
+Add your user to the 'docker' group
+
+```bash
+sudo usermod -aG docker $USER && newgrp docker
+
+```
 
  Since the kubectl package is not available in the default Ubuntu repositories for the Jammy release. You might need to use the official Kubernetes repository or download the binary directly.
  Here's how you can install kubectl using the official Kubernetes repository:
@@ -62,13 +68,13 @@ kubectl version --client
 These are additional tools required for setting up a Kubernetes cluster.
 
 ```bash
-sudo apt-get update && sudo apt-get install -y kubeadm kubelet kubernetes-cni
+sudo apt-get update && sudo apt-get install -y kubelet kubernetes-cni minikube
 ```
 
 4. Initialize the Kubernetes Master: </br>
-On your master node, initialize the cluster using kubeadm. This command will set up the necessary components.
+On your master node, initialize the cluster using minikube. This command will set up the necessary components.
 ```bash
-sudo kubeadm init
+minikube start
 ```
 
 
